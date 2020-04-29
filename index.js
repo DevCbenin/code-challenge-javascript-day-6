@@ -1,5 +1,5 @@
 const findAnagrams = (word, list) => {
-  //type code here
+  //type function here
   }
 
   module.exports = findAnagrams;
